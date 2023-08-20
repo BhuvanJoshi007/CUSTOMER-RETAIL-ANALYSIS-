@@ -5,6 +5,7 @@ aim of working in favor of the customer as well as generating profits is very si
 survival.
 
 Retail Data.xlsx
+
 o This book has three sheets (Customer, Transaction, Product Heirarchy)
 o Customer: Customers information including demographics
 o Transaction: Transactions of customers
