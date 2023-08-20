@@ -11,18 +11,20 @@ o Customer: Customers information including demographics
 o Transaction: Transactions of customers
 o Product Heirarchy: Product information (cateogry, sub category etc...)
 
+Question answered in this repository:
+
 Create a report and display the below calculated metrics, reports and inferences.
 1. Merge the datasets Customers, Product Hierarchy and Transactions as Customer_Final. Ensure to
 keep all customers who have done transactions with us and select the join type accordingly.
 2. Prepare a summary report for the merged data set.
-a. Get the column names and their corresponding data types
-b. Top/Bottom 10 observations.
-c. “Five-number summary” for continuous variables (min, Q1, median, Q3 and max)
-d. Frequency tables for all the categorical variables
+* a. Get the column names and their corresponding data types
+* b. Top/Bottom 10 observations.
+* c. “Five-number summary” for continuous variables (min, Q1, median, Q3 and max)
+* d. Frequency tables for all the categorical variables
 3. Generate histograms for all continuous variables and frequency bars for categorical variables.
 4. Calculate the following information using the merged dataset :
-a. Time period of the available transaction data
-b. Count of transactions where the total amount of transaction was negative
+* a. Time period of the available transaction data
+* b. Count of transactions where the total amount of transaction was negative
 5. Analyze which product categories are more popular among females vs male customers.
 6. Which City code has the maximum customers and what was the percentage of customers from
 that city?
@@ -33,5 +35,5 @@ Flagship Stores?
 10. How many customers have more than 10 unique transactions, after removing all transactions
 which have any negative amounts?
 11. For all customers aged between 25 - 35, find out:
-a. What was the total amount spent for “Electronics” and “Books” product categories?
-b. What was the total amount spent by these customers between 1st Jan, 2014 to 1st Mar, 2014?
+* a. What was the total amount spent for “Electronics” and “Books” product categories?
+* b. What was the total amount spent by these customers between 1st Jan, 2014 to 1st Mar, 2014?
